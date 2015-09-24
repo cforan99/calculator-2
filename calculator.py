@@ -7,5 +7,6 @@ calculator program yourself in this file.
 
 from arithmetic import *
 
+print "Welcome to our calculator. You can perform the following operations on any two numbers: +, -, *, /, square, cube, pow, mod."
 
-# Your code goes here
+
